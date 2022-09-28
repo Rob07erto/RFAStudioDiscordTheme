@@ -1,6 +1,6 @@
 @import url("https://rsms.me/inter/inter.css");
 ::-webkit-input-placeholder, body, button, input, select, textarea {
-  font-family: "Inter", sans-serif;
+  font-family: "Inter", bahnscript;
 }
 
 code {
